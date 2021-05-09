@@ -7,8 +7,8 @@
 @import url(https://theme-park.dev/CSS/addons/unraid/login-page/retro-terminal/retro-terminal-base.css);
 :root {
 --main-bg-color:black;
---body-before:#00ff771a;
---body-after: #00ff7733;
+--body-before:none;
+--body-after: none;
 --body-animation: flicker;
 --logo: url(https://theme-park.dev/CSS/addons/unraid/login-page/alien/logo/wings_green.png) center no-repeat;
 --text-color: #37f592;
